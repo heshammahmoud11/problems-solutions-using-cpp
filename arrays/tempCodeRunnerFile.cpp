@@ -1,2 +1,0 @@
-
-    vector<int> arr(num);
